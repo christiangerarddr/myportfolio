@@ -1,5 +1,5 @@
 <div class="block">
-  <img src="https://unsplash.it/1920/1920/?image=1005" data-speed="-1" class="img-parallax">
+  <!-- <img src="https://unsplash.it/1920/1920/?image=1005" data-speed="-1" class="img-parallax"> -->
   <h2>Parallax</h2>
 </div>
 <div class="block">
