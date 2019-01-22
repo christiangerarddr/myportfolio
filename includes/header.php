@@ -21,6 +21,8 @@
 	<script src="https://unpkg.com/ionicons@4.4.8/dist/ionicons.js"></script>
 	<!-- google-fonts -->
 	<link href="https://fonts.googleapis.com/css?family=Bungee+Shade|Lora|Roboto" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Noto+Serif+SC" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Source+Serif+Pro" rel="stylesheet">
 
 	<title>portfolio</title>
 </head>
